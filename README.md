@@ -60,15 +60,6 @@ The project also generates multiple visualizations including:
 - Data Visualization
 - Business Storytelling
 
-## Project Structure
-
-SoftGrowTech_Data_Storytelling_Project/
-│
-├── data_storytelling.py
-├── README.md
-├── requirements.txt
-├── visualizations/
-├── screenshots/
 
 ## How to Run the Project
 
